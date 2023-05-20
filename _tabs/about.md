@@ -79,6 +79,6 @@ class Skills extends Software {
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+<!-- 📺 [youtube][youtube] **|**  -->
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
