@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-[website]: joaohonorato.github.io
+[website]: https://joaohonorato.github.io
 [twitter]: https://twitter.com/JoaoHassis
 <!-- [youtube]: https://www.youtube.com/user/SEUYOUTUBE/ -->
 [instagram]: https://www.instagram.com/j.g.h.assis/
